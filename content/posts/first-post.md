@@ -1,7 +1,7 @@
 ---
 title: "Installing fonts for ImageMagick"
 date: 2020-06-20T23:02:50+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:

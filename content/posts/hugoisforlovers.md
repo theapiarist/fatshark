@@ -17,6 +17,7 @@ series = ["Hugo 101"]
 [ author ]
   name = "Hugo Authors"
 +++
+## HUGO documentation - included for reference only
 
 ## Step 1. Install Hugo
 

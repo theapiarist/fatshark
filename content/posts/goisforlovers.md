@@ -18,6 +18,7 @@ series = ["Hugo 101"]
 [ author ]
   name = "Hugo Authors"
 +++
+## HUGO documentation - included for reference only
 
 Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
 its template engine. It is an extremely lightweight engine that provides a very

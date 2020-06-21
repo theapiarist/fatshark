@@ -1,8 +1,8 @@
 ---
 title: "Markdown Cheat Sheet"
 date: 2020-06-21T10:10:05+01:00
-draft: true
-toc: false
+draft: false
+toc: true
 images:
 tags:
   - hugo

@@ -11,7 +11,7 @@ weight: 10
 series:
 - Hugo 101
 ---
-
+## HUGO documentation - included for reference only
 
 ## Introduction
 
