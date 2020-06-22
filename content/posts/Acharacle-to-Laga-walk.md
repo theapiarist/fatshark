@@ -5,7 +5,9 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - sunartdiaries
+  - photography
+  - walking
 ---
 
 **Original from [here](https://www.sunartdiaries.co.uk/2019/10/21/walk-acharacle-to-laga/) - reproduced for testing purposese only**
