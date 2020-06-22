@@ -62,7 +62,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](image.jpg)
+![alt text](191109-030.jpg)
 
 ## Extended Syntax
 
